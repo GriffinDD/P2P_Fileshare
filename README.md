@@ -1,5 +1,7 @@
 # P2P_Fileshare
 A rudimentary P2P system where seeders can share/recieve files from other peers.
+Evan Fisher-Perez
+Griffin Danner-Doran
 
 
 # How to Run
